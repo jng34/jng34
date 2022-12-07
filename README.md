@@ -1,8 +1,8 @@
 <h2><b>Hi there, I'm James Ng 👋</b></h2> 
 
-<b>Full Stack Software Engineer, Educator & Mentor</b> <br/>
+<b>Software Engineer & Educator </b> <br/>
 
- •💡  Participating in "Advent of Code 2022" and "JavaScript-Mas" <br/> 
+ •💡  Currently participating in "Advent of Code 2022" and "JavaScript-Mas" <br/> 
  •🔭 Latest project, <a href="https://github.com/jng34/black_jack">BlackJack (Python)</a> <br/> 
  •🌱 Learning Data Structures & Algorithms, TypeScript, and Python <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
