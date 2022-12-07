@@ -2,7 +2,7 @@
 
 <b>Full Stack Software Engineer, Educator & Mentor</b> <br/>
 
- •💡 Participating in "Advent of Code 2022" and "JavaScript-Mas" <br/> 
+ •💡  Participating in "Advent of Code 2022" and "JavaScript-Mas" <br/> 
  •🔭 Latest project, <a href="https://github.com/jng34/black_jack">BlackJack (Python)</a> <br/> 
  •🌱 Learning Data Structures & Algorithms, TypeScript, and Python <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
