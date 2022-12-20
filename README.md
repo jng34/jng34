@@ -6,7 +6,7 @@
  •🔭 Latest project, <a href="https://github.com/jng34/black_jack">BlackJack (Python)</a> <br/> 
  •🌱 Learning Data Structures & Algorithms, TypeScript, and Python <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
- •⚡ Fun facts: Love to play basketball, exercise, health nut, cook, poker, travel <br/><br/>
+ •⚡ Fun facts: 🏀 is life, exercise, health nut, cook, poker, travel <br/><br/>
  
 <img src="https://github-readme-stats.vercel.app/api?username=jng34" />
 
