@@ -2,7 +2,7 @@
 
 <b>Software Engineer & Educator </b> <br/>
 
- •🔭 Latest projects:  <a href="https://github.com/jng34/pong_game">Pong</a> and <a href="https://github.com/jng34/black_jack">BlackJack</a> <br/> 
+ •🔭 Latest projects: <a href="https://github.com/jng34/bookMarker">Book-marker Chrome Ext</a>, <a href="https://github.com/jng34/pong_game">Pong</a>, <a href="https://github.com/jng34/black_jack">BlackJack</a> <br/> 
  •🌱 Currently Learning Data Structures & Algorithms, TypeScript, and Python <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: 🏀 BallIsLife, 🥗💰 health is wealth , 💪 calisthenics , 👨‍🍳 love to cook, ✈️ love to travel & explore  <br/><br/>
