@@ -4,7 +4,7 @@
 🏀 Baller 💪 Calisthenics ✈️ Traveler
 
  •🔭 Latest projects: <a href="https://github.com/wthwang38/asianhoops">Asian Hoops</a>, <a href="https://github.com/jng34/turtle_crossing">Turtle Crossing</a>, <a href="https://github.com/jng34/bookMarker">Book-marker Chrome Ext</a>, <a href="https://github.com/jng34/pong_game">Pong</a> <br/> 
- •🌱 Currently Learning Data Structures & Algorithms, TypeScript, and Python <br/>
+ •🌱 Currently Learning Data Structures & Algorithms, Node.js, TypeScript, and Python <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: 📚 Life-long Learner, 🥗💰 Health is Wealth, 👨‍🍳 Love to cook
  
