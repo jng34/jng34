@@ -8,7 +8,7 @@
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: 📚 Life-long Learner, 🥗💰 Health is Wealth, 👨‍🍳 Love to cook
  
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=jng34" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=jng34" />
 
 <b>Tech Stack:</b><br/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
