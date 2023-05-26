@@ -3,16 +3,17 @@
 🖥️ Software Engineer 📚 Educator & Mentor 	💡 Problem-Solver<br/>
 🏀 Baller 💪 Calisthenics ✈️ Traveler
 
- •🔭 Latest projects: <a href="https://github.com/jng34/loCodeLy">LoCodely</a>, <a href="https://github.com/jng34/reading-list">Reading List</a>, <a href="https://github.com/wthwang38/asianhoops">Asian Hoops</a>, <a href="https://github.com/jng34/bookMarker">Book-marker Chrome Ext</a> <br/> 
- •🌱 Currently Learning Data Structures & Algorithms, Node.js, TypeScript, and Python <br/>
+ •🔭 Latest projects: <a href="https://github.com/jng34/loCodeLy">LoCodely</a>, <a href="https://github.com/wthwang38/DnD">Dine and Date</a> <br/> 
+ •🌱 Currently Learning Node.js, GraphQL, TypeScript, Data Structures & Algorithms <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: 📚 Life-long Learner, 🥗💰 Health is Wealth, 👨‍🍳 Love to cook
  
-<img src="https://github-readme-stats.vercel.app/api?username=jng34" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jng34" /> -->
 
 <b>Tech Stack:</b><br/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
