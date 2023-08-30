@@ -3,7 +3,7 @@
 🖥️ Software Engineer 📚 Educator & Mentor 	💡 Problem-Solver<br/>
 🏀 Baller 💪 Calisthenics ✈️ Traveler
 
- •🔭 Latest projects: <a href="https://github.com/jng34/fetch-dogs">Fetch Dogs Adoption</a>, <a href="https://github.com/jng34/js-calculator">JS Calculator</a>, <a href="https://github.com/jng34/loCodeLy">LoCodely</a> <br/> 
+ •🔭 Latest projects: <a href="https://github.com/jng34/loCodeLy">LoCodely</a>, <a href="https://github.com/jng34/fetch-dogs">Fetch Dogs Adoption</a>, <a href="https://github.com/jng34/js-calculator">JS Calculator</a> <br/> 
  •🌱 Currently Learning Node.js, GraphQL, TypeScript, Data Structures & Algorithms <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: 📚 Life-long Learner, 🥗💰 Health is Wealth, 👨‍🍳 Love to cook <br/>
