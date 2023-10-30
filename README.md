@@ -1,7 +1,6 @@
 <h2><b>Hi there, I'm James Ng 👋</b></h2> 
 
-🖥️ Software Engineer 📚 Educator & Mentor 	💡 Problem-Solver<br/>
-🏀 Baller 💪 Calisthenics ✈️ Traveler
+🖥️ Software Engineer 💡 Problem-Solver 📚 Educator & Mentor 	<br/>
 
  •🔭 Latest projects: <a href="https://github.com/jng34/loCodeLy">LoCodely</a>, <a href="https://github.com/jng34/fetch-dogs">Fetch Dogs Adoption</a>, <a href="https://github.com/jng34/js-calculator">JS Calculator</a> <br/> 
  •🌱 Currently Learning Node.js, GraphQL, TypeScript, Data Structures & Algorithms <br/>
