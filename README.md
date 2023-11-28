@@ -1,6 +1,6 @@
 # Hi there, I'm James Ng 👋 
 
-🖥️ Full Stack Software Engineer 💡 Problem-Solver 📚 Educator & Mentor 	<br/>
+🖥️ Software Engineer 💡 Problem-Solver 📚 Educator & Mentor 	<br/>
 
  •🔭 Current project(s): <a href="https://github.com/jng34/loCodeLy">LoCodely</a><br/> 
  •🌱 Currently Learning Node.js, GraphQL, TypeScript, Data Structures & Algorithms <br/>
