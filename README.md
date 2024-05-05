@@ -1,12 +1,12 @@
-# Hi there, I'm James Ng 👋 
+# James Ng 👋 
 
-🖥️ Software Engineer 💡 Problem-Solver 📚 Educator & Mentor 	<br/>
+🖥️ Software Engineer 💡 Problem-Solver 📚 Educator & Mentor 📄 <a target="_blank" href="https://docs.google.com/document/d/1KHa5zH_FXcrF3tIHWAbpn3EIk-3tC40vJs1WCwZRAsk/edit?usp=sharing">Resume</a> <br/>
 
  •🔭 Current project(s): <a href="https://github.com/jng34/loCodeLy">LoCodely</a><br/> 
  •🌱 Currently Learning Node.js, GraphQL, TypeScript, Data Structures & Algorithms <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: 📚 Life-long Learner, 🥗💰 Health is Wealth, 👨‍🍳 Love to cook <br/>
- •📄 More Info: <a target="_blank" href="https://docs.google.com/document/d/17xsp0u6s1ODINA1IeGfeVWcpWPu2J253iM51UFYipHQ/edit?usp=sharing">Resume</a>
+ 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jng34" /> -->
 
 <b>Tech Stack:</b><br/>
