@@ -1,6 +1,6 @@
 # James Ng 👋 
 
-🖥️ Software Engineer 💡 Problem-Solver 📚 Educator & Mentor 📄 <a target="_blank" href="https://docs.google.com/document/d/1KHa5zH_FXcrF3tIHWAbpn3EIk-3tC40vJs1WCwZRAsk/edit?usp=sharing">Resume</a> <br/>
+🖥️ Software Engineer 💡 Problem-Solver 📚 Educator & Mentor 📄 <a target="_blank" href="https://docs.google.com/document/d/1MNV5AWkFybmtDTcnzIGxW_MJ6EtBUptnfdQIhMm4B2I/edit?tab=t.0">Resume</a> <br/>
 
  •🔭 Current project(s): <a href="https://github.com/jng34/loCodeLy">LoCodely</a><br/> 
  •🌱 Currently Learning Node.js, GraphQL, TypeScript, Data Structures & Algorithms <br/>
